@@ -1,2 +1,1 @@
-# react-bootstrap-starter
-An empty React app with Bootstrap.
+This React app was created by create-react-app. It includes react-bootstrap.
