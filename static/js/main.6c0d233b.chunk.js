@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-bootstrap-starter"]=this["webpackJsonpreact-bootstrap-starter"]||[]).push([[0],{12:function(t,e,r){"use strict";r.r(e);var a=r(0),c=r.n(a),s=r(3),n=r.n(s),o=r(5),b=r(1);var i=function(){return Object(b.jsx)(o.a,{className:"text-center",children:Object(b.jsx)("h1",{children:Object(b.jsx)("a",{href:"/react-bootstrap-starter/",children:"React Bootstrap Starter"})})})};r(11);n.a.render(Object(b.jsx)(c.a.StrictMode,{children:Object(b.jsx)(i,{})}),document.getElementById("root"))}},[[12,1,2]]]);
+//# sourceMappingURL=main.6c0d233b.chunk.js.map
